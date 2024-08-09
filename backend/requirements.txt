@@ -1,0 +1,8 @@
+transformers==4.37.2
+torch==2.1.0
+BitsAndBytes==0.41.3
+accelerate==0.25.0
+openai-whisper @ git+https://github.com/openai/whisper.git
+gTTS==2.3.2
+Pillow==10.0.0
+nltk==3.8.1
